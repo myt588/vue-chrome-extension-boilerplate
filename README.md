@@ -1,4 +1,4 @@
-# a
+# vue-chrome-extension-tempalte
 
 ## Project setup
 ```
