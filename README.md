@@ -5,7 +5,12 @@
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Start Extension Home Page development
+```
+npm run serve
+```
+
+### Compiles and hot-reloads extension for development
 ```
 npm run serve
 ```

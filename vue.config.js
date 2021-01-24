@@ -1,5 +1,10 @@
 module.exports = {
   pages: {
+    index: {
+      entry: 'src/home/main.ts',
+      template: 'public/index.html',
+      chunks: ['chunk-vendors', 'chunk-common', 'index'],
+    },
     popup: {
       template: 'public/browser-extension.html',
       entry: './src/popup/main.ts',

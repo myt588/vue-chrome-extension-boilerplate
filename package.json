@@ -1,8 +1,9 @@
 {
-  "name": "reinz",
+  "name": "vue-chrome-extension-template",
   "version": "0.1.0",
   "private": true,
   "scripts": {
+    "dev": "vue-cli-service serve",
     "serve": "vue-cli-service build --mode development --watch",
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint"
